@@ -25,3 +25,7 @@ Prepare setup
 8)  best practise to upgrade pip also
     ``` pip3.7 install --upgrade pip ```
 9) if VS code using install python extensions
+
+
+learning fundamentals (compiler, interpreater, keywork etc)
+  refer representation
