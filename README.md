@@ -1,5 +1,5 @@
 # Python
-Python learning
+1) Python learning
 Prepare setup
 1) ```sudo yum install openssl-devel -y```
 2) ```curl http://pyenv.run | bash```
@@ -27,5 +27,5 @@ Prepare setup
 9) if VS code using install python extensions
 
 
-learning fundamentals (compiler, interpreater, keywork etc)
+2) learning fundamentals (compiler, interpreater, keywork etc)
   refer representation
