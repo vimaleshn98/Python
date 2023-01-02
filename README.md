@@ -19,3 +19,6 @@ Prepare setup
     ![image](https://user-images.githubusercontent.com/52690867/210213837-1ef3b170-94c5-485d-9011-e0db34cce970.png)
 
 7) python --version
+8)  best practise to upgrade pip also
+    ``` pip3.7 install --upgrade pip ```
+9) if VS code using install python extensions
