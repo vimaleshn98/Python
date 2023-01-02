@@ -16,4 +16,6 @@ Prepare setup
    so 
 6) make new version of python as default python version
    pyenv shell 3.7.6
+    ![image](https://user-images.githubusercontent.com/52690867/210213837-1ef3b170-94c5-485d-9011-e0db34cce970.png)
+
 7) python --version
