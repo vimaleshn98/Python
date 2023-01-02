@@ -10,3 +10,10 @@ Prepare setup
     eval "$(pyenv init -)"
     eval "$(pyenv virtualenv-init -)"
     ```
+4) pyenv install 3.7.6
+5) pyenv --versions
+   this will system pyhton version and new added pyhton version
+   so 
+6) make new version of python as default python version
+   pyenv shell 3.7.6
+7) python --version
