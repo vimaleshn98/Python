@@ -99,9 +99,6 @@
   
 
   That was pretty simple. But, it is possible to run into issues with this. Let's say that we define an infinite generator that will always calculate the next item in the Fibonacci sequence we looked at in our recursion lesson.
-
-   
-  ```
    
   ```
   gen.py
